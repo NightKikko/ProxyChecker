@@ -13,8 +13,6 @@ Make sure you have Python installed, then install the required packages:
 pip install requests colorama
 
 ## 🚀 Usage
-
-```
 Run the script:
 ```
 python proxy_checker.py
